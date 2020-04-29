@@ -1,0 +1,25 @@
+{
+  "name": "Projet-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/screens/*.html",
+    "build": "parcel build src/screens/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nojaas/Projet-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nojaas/Projet-js/issues"
+  },
+  "homepage": "https://github.com/Nojaas/Projet-js#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.5"
+  }
+}
